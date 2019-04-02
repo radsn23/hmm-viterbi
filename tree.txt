@@ -1,0 +1,32 @@
+.
+├── WSJ_23.pos
+├── WSJ_24.pos
+├── WSJ_POS_CORPUS_FOR_STUDENTS
+│   ├── README.txt
+│   ├── WSJ_02-21.pos
+│   ├── WSJ_23.words
+│   ├── WSJ_24.pos
+│   └── WSJ_24.words
+├── WSJ_POS_CORPUS_FOR_STUDENTS.zip
+├── __pycache__
+│   ├── hmm.cpython-36.pyc
+│   └── viterbi.cpython-36.pyc
+├── data
+│   ├── stats.txt
+│   ├── train.csv
+│   └── vocab.txt
+├── raw.txt
+├── src
+│   ├── __pycache__
+│   │   ├── constants.cpython-36.pyc
+│   │   ├── hmm.cpython-36.pyc
+│   │   ├── main.cpython-36.pyc
+│   │   └── viterbi.cpython-36.pyc
+│   ├── constants.py
+│   ├── hmm.py
+│   ├── main.py
+│   ├── scoring.py
+│   └── viterbi.py
+└── tree.txt
+
+5 directories, 24 files
